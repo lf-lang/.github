@@ -8,12 +8,11 @@ programming language. There are many ways to contribute!
 > - [Chat with the community](https://lf-lang.zulipchat.com/)
 > - [Report an issue](https://github.com/lf-lang/lingua-franca/issues)
 > - [Submit an RFC](https://github.com/lf-lang/rfcs)
-> - [Submit a Pull request](https://github.com/lf-lang/lingua-franca/pulls) (👉 [acceptance criteria](#acceptance))
+> - [Submit a Pull request](https://github.com/lf-lang/lingua-franca/pulls) (👉 [acceptance criteria](#acceptance-criteria))
 
 ## Chatting on Zulip
 
-Reach out to us on the [Q&A Zulip stream](https://lf-lang.zulipchat.com/#narrow/stream/399899-Q.26A) if you have any questions or feedback.
-Generally, if you have any Lingua Franca experiences to share or want to help others, our [Zulip chat](https://lf-lang.zulipchat.com/) is great for that.
+Reach out to us on our our [Zulip chat](https://lf-lang.zulipchat.com/). If you have questions the [Q&A stream](https://lf-lang.zulipchat.com/#narrow/stream/399899-Q.26A) is a good place to start. We are also very interested in hearing about your experiences using Lingua Franca.
 
 ## Reporting a bug or other issue
 
@@ -84,8 +83,6 @@ Perform merges to bring your feature branch up-to-date with master locally (do n
 To address feedback from code review, implement changes and push to your feature branch or fork. If you are certain that a reviewer's concern has been addressed by your new changes, hit the `Resolve conversation` button. If you are unsure, ask for follow up in the conversation and let the reviewer determine whether the feedback was addressed accordingly.
 
 ### Acceptance criteria
-[Acceptance criteria]:
-#acceptance
 All code contributions are evaluated based on the following two criteria for acceptance.
 
 #### 1. Relevance
