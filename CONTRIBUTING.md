@@ -10,7 +10,7 @@ programming language. There are many ways to contribute!
 > - [Submit an RFC](https://github.com/lf-lang/rfcs)
 > - [Submit a Pull request](https://github.com/lf-lang/lingua-franca/pulls) (👉 [acceptance criteria](#acceptance))
 
-## Posting a question on Zulip
+## Chatting on Zulip
 
 Reach out to us on the [Q&A Zulip stream](https://lf-lang.zulipchat.com/#narrow/stream/399899-Q.26A) if you have any questions or feedback.
 Generally, if you have any Lingua Franca experiences to share or want to help others, our [Zulip chat](https://lf-lang.zulipchat.com/) is great for that.
