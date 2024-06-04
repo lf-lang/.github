@@ -1,12 +1,19 @@
 # Contributing to Lingua Franca
 
 We appreciate that you are interested in contributing to the Lingua Franca
-programming language. There are many ways to contribute, including the
-following:
+programming language. There are many ways to contribute!
+
+> [!NOTE]
+> **TL;DR:** How to contribute:
+> - [Chat with the community](https://lf-lang.zulipchat.com/)
+> - [Report an issue](https://github.com/lf-lang/lingua-franca/issues)
+> - [Submit an RFC](https://github.com/lf-lang/rfcs)
+> - [Submit a Pull request](https://github.com/lf-lang/lingua-franca/pulls) (👉 [acceptance criteria](#acceptance))
 
 ## Posting a question on Zulip
 
-Please feel free to reach out to us on the [Q&A Zulip stream](https://lf-lang.zulipchat.com/#narrow/stream/399899-Q.26A) if you have any questions or feedback.
+Reach out to us on the [Q&A Zulip stream](https://lf-lang.zulipchat.com/#narrow/stream/399899-Q.26A) if you have any questions or feedback.
+Generally, if you have any Lingua Franca experiences to share or want to help others, our [Zulip chat](https://lf-lang.zulipchat.com/) is great for that.
 
 ## Reporting a bug or other issue
 
@@ -21,7 +28,7 @@ If you would like to propose potential changes to the language or simply have an
 The [RFC](https://github.com/lf-lang/rfcs) process allows you to test your idea early on. We will provide feedback and guidance on how to improve your idea so that it meets the requirements before you commit to implementing the feature.
 In case you plan on changing the syntax or semantics of the language, an RFC that outlines the design considerations is required for your changes to be accepted.
 
-## Contributing Code
+## Contributing code
 
 If you would like to contribute code, please follow the pull request (PR) workflow that is outlined below. If you plan to work an a larger change, we encourage you to first describe your design in an RFC. Note that for significant changes, such as modifications of the syntax or semantics, submitting an RFC is mandatory.
 
@@ -74,11 +81,12 @@ Perform merges to bring your feature branch up-to-date with master locally (do n
 3. Perform the merge (run `git merge origin/master`, assuming that you want to merge the branch `master` from remote `origin` into `your-feature-branch`).
 
 #### Addressing reviews
-To address feedback from code review, implement changes and push to your feature branch. If you are certain that a reviewer's concern has been addressed by your new changes, hit the `Resolve conversation` button. If you are unsure, ask for follow up in the conversation and let the reviewer determine whether the feedback was addressed accordingly.
+To address feedback from code review, implement changes and push to your feature branch or fork. If you are certain that a reviewer's concern has been addressed by your new changes, hit the `Resolve conversation` button. If you are unsure, ask for follow up in the conversation and let the reviewer determine whether the feedback was addressed accordingly.
 
-### Acceptance Criteria
-
-Your contributions will be evaluated based on the following two criteria for acceptance.
+### Acceptance criteria
+[Acceptance criteria]:
+#acceptance
+All code contributions are evaluated based on the following two criteria for acceptance.
 
 #### 1. Relevance
 Contributions to the code base should be relevant. This means that they satisfy the overall goal of the project, which is: to relieve users of the burden of coordination. Or, if it doesn't directly satisfy this goal, it should:
