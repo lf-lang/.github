@@ -9,6 +9,7 @@ programming language. There are many ways to contribute!
 > - [Report an issue](https://github.com/lf-lang/lingua-franca/issues)
 > - [Submit an RFC](https://github.com/lf-lang/rfcs)
 > - [Submit a Pull request](https://github.com/lf-lang/lingua-franca/pulls) (👉 [acceptance criteria](#acceptance-criteria))
+> - [Review code](#reviewing-code)
 
 ## Chatting on Zulip
 
@@ -98,3 +99,10 @@ Contributions to the code base should be technically sound. This means not only 
 For each contribution, both criteria need to be met. Of course, bug fixes and architectural improvements are welcomed, as long as their area of focus is relevant — areas that are no longer relevant should be considered for deprecation instead.
 
 Finally, a decision on adoption will be made by the [maintainers](https://github.com/orgs/lf-lang/teams/maintainers), who weigh relevance against maintenance cost. Even if a feature is relevant and sound, there will be cost to maintaining the feature, and this has to be justifiable. If the impact on relevance or soundness is unclear, or if there are concerns raised during code review, the maintainers may ask you to submit an [RFC](https://github.com/lf-lang/rfcs) to document your design considerations and guide you towards addressing the concerns.
+
+## Reviewing code
+
+Code review can be challenging and time consuming, but it is critical for ensuring code quality. This document is meant as a resource for both contributors and reviewers as a reference that codifies what is expected of contributed code. Reviewers are expected to help contributors conform to the [acceptance criteria](#acceptance-criteria) and help them to improve their contributions. If you are reviewing code, please provide comments that are helpful, constructive, and encouraging.
+
+Sometimes suggestions for improvement can creep beyond the original scope of the fix or feature that a PR means to introduce. In that case, it might be a better option to document suggestions for further improvement in an [issue](#reporting-a-bug-or-other-issue), allowing it to be carried out in a future PR (instead of holding up merging of the current PR).
+
